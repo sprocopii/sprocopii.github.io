@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://sprocopii.github.io/",
   "dependencies": {
+    "@heroicons/react": "^2.0.16",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -39,6 +40,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0"
+    "gh-pages": "^5.0.0",
+    "tailwindcss": "^3.2.7"
   }
 }
